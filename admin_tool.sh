@@ -25,6 +25,7 @@ clear 2>/dev/null
 echo -e "${CYAN}"
 echo "=========================================="
 echo "        Linux Admin Toolkit"
+echo "   Created by Murari Singh"
 echo "=========================================="
 echo -e "${NC}"
 echo "User     : $(whoami)"
